@@ -11,7 +11,7 @@
  .below-fold-wrapper { position:relative; z-index:2; clear:both; top:60px; margin-bottom:60px;}
  #header-wrap, #banner-wrap, #nav-wrap, #main-wrap, #footer-wrap { width:100%; }
  h3 { font-size: 22px; padding: .2em 0 .2em 0; line-height: 1.2; font-weight: normal; letter-spacing: -1px; color: #000; margin-bottom:20px; }
- a { color: #222; }
+ a { color: #000; }
  a:hover { color: #000; }
  h2 { font-size: 22px; padding: .8em 0 .2em 0; line-height: 1.2; font-weight: normal; letter-spacing: -1px; color: #000; margin-bottom:0px; display: inline-block;}
  div.paragraph { font-size: 13px; line-height: 24px; padding: .4em 0; }
